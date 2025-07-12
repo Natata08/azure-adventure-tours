@@ -12,7 +12,7 @@ const mockTours = [
       "Experience breathtaking views and serene landscapes on a 3-day guided hike through the heart of the Swiss Alps.",
     price: 4500.0,
     imageUrl:
-      "https://images.unsplash.com/photo-1587825159281-22631b262e56?q=80&w=2070", // Sample image from Unsplash
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const mockTours = [
       "Discover the flavors of Paris, from croissants to coq au vin. Includes cooking classes and market tours.",
     price: 3200.0,
     imageUrl:
-      "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070",
+      "https://images.unsplash.com/photo-1642486574545-509db153db60?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const mockTours = [
       "Explore lush rainforests, spot exotic wildlife, and zip-line through the canopy in this thrilling adventure.",
     price: 3800.0,
     imageUrl:
-      "https://images.unsplash.com/photo-1533130939334-a3defa709a34?q=80&w=2070",
+      "https://images.unsplash.com/photo-1701841591867-6741d74f27b7?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
