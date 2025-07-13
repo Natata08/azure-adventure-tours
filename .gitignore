@@ -26,3 +26,5 @@ Thumbs.db
 # Azure App Service
 api/.vscode/settings.json
 api/.deployment
+frontend/.vscode/settings.json
+frontend/.deployment
